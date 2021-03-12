@@ -1,0 +1,46 @@
+{
+  "name": "vite-vue3-ts-template",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.0.1",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.4",
+    "element-plus": "^1.0.2-beta.33",
+    "moment": "^2.29.1",
+    "vue": "^3.0.5",
+    "vue-request": "^1.0.4",
+    "vue-router": "^4.0.4",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@ant-design/icons-vue": "^6.0.1",
+    "@types/node": "^14.14.32",
+    "@typescript-eslint/eslint-plugin": "^4.17.0",
+    "@typescript-eslint/parser": "^4.17.0",
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vitejs/plugin-vue-jsx": "^1.1.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "@vue/eslint-config-airbnb": "^5.3.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^7.7.0",
+    "less": "^4.1.1",
+    "rollup-plugin-styles": "^3.14.1",
+    "rollup-plugin-visualizer": "^4.2.0",
+    "sass": "^1.32.8",
+    "typescript": "^4.2.3",
+    "vite": "^2.0.5",
+    "vite-plugin-style-import": "^0.8.1"
+  }
+}
